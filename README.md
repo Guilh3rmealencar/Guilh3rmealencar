@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alencar-327413213/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilh3rmealencar&show_icons=true&theme=radical)
+![Guilh3rmealencar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilh3rmealencar&show_icons=true&theme=radical)
+![Guilh3rmealencar's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh3rmealencar&theme=tokyonight)
 
 ## Linguagens de Programação que uso no meu dia
 
